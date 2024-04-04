@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My History Application</string>
+    <string name="the_history_app">The History App</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="generate">Generate</string>
+    <string name="clear">Clear</string>
+</resources>
