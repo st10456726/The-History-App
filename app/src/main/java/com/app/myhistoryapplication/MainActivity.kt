@@ -64,6 +64,7 @@ class MainActivity : AppCompatActivity() {
             }
             if(etAge.toString().toInt() > 20 && etAge.toString().toInt() < 100)
             tvResult.text = "Your age is not within the range"
+
             // I used CodeProject to help understand what to do.
             // https://www.codeproject.com/Questions/5354442/How-to-input-D-O-B-and-getting-age-using-kotlin-an
 
